@@ -1,1 +1,1 @@
-Hello Ubuntu: command to print "hello, world" to standard out
+Hello Ubuntu: command to print "hello, world" to a standard output
