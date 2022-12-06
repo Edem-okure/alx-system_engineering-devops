@@ -5,3 +5,4 @@
 # tail /etc/passwd : script to display the last 10 lines of a file
 # head /etc/passwd : script to display the first 10 lines of a file
 # head -n 3 iacta | tail -n i : script to display 3rd line
+# echo 'Best School' >\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) :script that writes a content into a file, if file does not not exits it will be created
