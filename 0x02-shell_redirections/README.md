@@ -9,3 +9,4 @@
 # ls -la > ls_cwd_content : sending result of ls -la command to a file
 # tail --lines=1 iacta >> iacta : script to repeat the last line of a file
 # find . -type f -name '*.js' -delete : script to delete all files with subdir ending with .js
+# find . -type d | wc -l : script to count directories and sub-dir in the current dir in cluding hidden dir
