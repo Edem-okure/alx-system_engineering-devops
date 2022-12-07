@@ -7,3 +7,4 @@
 # head -n 3 iacta | tail -n i : script to display 3rd line
 # echo 'Best School' >\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) :script that writes a content into a file, if file does not not exits it will be created
 # ls -la > ls_cwd_content : sending result of ls -la command to a file
+# tail --lines=1 iacta >> iacta : script to repeat the last line of a file
