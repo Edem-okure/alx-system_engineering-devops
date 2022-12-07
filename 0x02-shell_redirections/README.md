@@ -8,3 +8,4 @@
 # echo 'Best School' >\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) :script that writes a content into a file, if file does not not exits it will be created
 # ls -la > ls_cwd_content : sending result of ls -la command to a file
 # tail --lines=1 iacta >> iacta : script to repeat the last line of a file
+# find . -type f -name '*.js' -delete : script to delete all files with subdir ending with .js
