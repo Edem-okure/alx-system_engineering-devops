@@ -13,4 +13,5 @@
 # ls -l --sort=time | head -n 11 : script to display 10 newest file in the current working dir
 # script to reverse an input (string)
 # echo 'Chicago' | tr -d Cc : script to remove multiple characters from a string
-# echo 'Replace all characters A and c from input to Z and e' | tr 'Ac' 'Ze' : script to replace characters 
+# echo 'Replace all characters A and c from input to Z and e' | tr 'Ac' 'Ze' : script to replace characters
+# Display lines containing the pattern “root” from the file /etc/passwd 
