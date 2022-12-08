@@ -11,3 +11,4 @@
 # find . -type f -name '*.js' -delete : script to delete all files with subdir ending with .js
 # find . -type d | wc -l : script to count directories and sub-dir in the current dir in cluding hidden dir
 # ls -l --sort=time | head -n 11 : script to display 10 newest file in the current working dir
+# script to reverse an input (string) 
