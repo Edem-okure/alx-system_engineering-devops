@@ -1,2 +1,2 @@
 #!/bin/bash
-grep bin </etc/passwd> > binlines.out
+grep -Fw -f bin /etc/passwd
